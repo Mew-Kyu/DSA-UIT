@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1741100250 source:d:\long\documents\ctdl&gt\buoi03_04_03_list_v2\demoforwardlist\main.cpp
+	<iostream>
+	<forward_list>
+
